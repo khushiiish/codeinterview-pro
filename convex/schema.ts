@@ -12,3 +12,5 @@ export default defineSchema({
 
     }).index("by_clerk_id",["clerkId"]),
 })
+
+//https://bursting-hyena-71.clerk.accounts.dev
